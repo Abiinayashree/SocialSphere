@@ -1,0 +1,32 @@
+{
+    "source": "Technology",
+    "posts": [
+        {
+            "id": 1,
+            "username": "Arun",
+            "category": "Technology",
+            "content": "Learning PHP and AngularJS is helping me understand modern web development.",
+            "likes": 500,
+            "comments": 12,
+            "time": "4h ago"
+        },
+        {
+            "id": 2,
+            "username": "Karthik",
+            "category": "Technology",
+            "content": "Artificial Intelligence is changing the way we build applications.",
+            "likes": 145,
+            "comments": 27,
+            "time": "5h ago"
+        },
+        {
+            "id": 3,
+            "username": "Meena",
+            "category": "Technology",
+            "content": "Exploring frontend and backend technologies today.",
+            "likes": 76,
+            "comments": 9,
+            "time": "7h ago"
+        }
+    ]
+}

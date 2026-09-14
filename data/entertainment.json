@@ -1,0 +1,32 @@
+{
+    "source": "Entertainment",
+    "posts": [
+        {
+            "id": 10,
+            "username": "MovieBuzz",
+            "category": "Entertainment",
+            "content": "The latest movies and entertainment news are trending today.",
+            "likes": 412,
+            "comments": 67,
+            "time": "2h ago"
+        },
+        {
+            "id": 11,
+            "username": "CinemaTalk",
+            "category": "Entertainment",
+            "content": "Great stories and memorable performances make movies unforgettable.",
+            "likes": 286,
+            "comments": 34,
+            "time": "4h ago"
+        },
+        {
+            "id": 12,
+            "username": "Entertainment Now",
+            "category": "Entertainment",
+            "content": "Check out the latest entertainment updates and trending stories.",
+            "likes": 298,
+            "comments": 42,
+            "time": "6h ago"
+        }
+    ]
+}

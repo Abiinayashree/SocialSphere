@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/feed.xsl"?>
+<feed>
+  <generated_at>2026-09-14 07:42:30</generated_at>
+  <post>
+    <id>1</id>
+    <username>Arun</username>
+    <category>Technology</category>
+    <content>Learning PHP and AngularJS is helping me understand modern web development.</content>
+    <likes>500</likes>
+    <comments>12</comments>
+    <time>4h ago</time>
+  </post>
+  <post>
+    <id>2</id>
+    <username>Karthik</username>
+    <category>Technology</category>
+    <content>Artificial Intelligence is changing the way we build applications.</content>
+    <likes>145</likes>
+    <comments>27</comments>
+    <time>5h ago</time>
+  </post>
+  <post>
+    <id>3</id>
+    <username>Meena</username>
+    <category>Technology</category>
+    <content>Exploring frontend and backend technologies today.</content>
+    <likes>76</likes>
+    <comments>9</comments>
+    <time>7h ago</time>
+  </post>
+  <post>
+    <id>4</id>
+    <username>Rahul</username>
+    <category>Education</category>
+    <content>Small progress every day can lead to big achievements.</content>
+    <likes>156</likes>
+    <comments>24</comments>
+    <time>6h ago</time>
+  </post>
+  <post>
+    <id>5</id>
+    <username>Divya</username>
+    <category>Education</category>
+    <content>Learning new skills is one of the best investments we can make.</content>
+    <likes>112</likes>
+    <comments>16</comments>
+    <time>8h ago</time>
+  </post>
+  <post>
+    <id>6</id>
+    <username>Vijay</username>
+    <category>Education</category>
+    <content>Consistency is more important than studying everything in one day.</content>
+    <likes>94</likes>
+    <comments>11</comments>
+    <time>10h ago</time>
+  </post>
+  <post>
+    <id>7</id>
+    <username>Priya</username>
+    <category>Travel</category>
+    <content>Beautiful sunset and peaceful surroundings make every journey special.</content>
+    <likes>124</likes>
+    <comments>18</comments>
+    <time>2h ago</time>
+  </post>
+  <post>
+    <id>8</id>
+    <username>Sanjay</username>
+    <category>Travel</category>
+    <content>Exploring new places creates memories that last forever.</content>
+    <likes>98</likes>
+    <comments>14</comments>
+    <time>9h ago</time>
+  </post>
+  <post>
+    <id>9</id>
+    <username>Anu</username>
+    <category>Travel</category>
+    <content>Nature always gives us a reason to slow down and enjoy the moment.</content>
+    <likes>137</likes>
+    <comments>21</comments>
+    <time>11h ago</time>
+  </post>
+  <post>
+    <id>10</id>
+    <username>MovieBuzz</username>
+    <category>Entertainment</category>
+    <content>The latest movies and entertainment news are trending today.</content>
+    <likes>412</likes>
+    <comments>67</comments>
+    <time>2h ago</time>
+  </post>
+  <post>
+    <id>11</id>
+    <username>CinemaTalk</username>
+    <category>Entertainment</category>
+    <content>Great stories and memorable performances make movies unforgettable.</content>
+    <likes>286</likes>
+    <comments>34</comments>
+    <time>4h ago</time>
+  </post>
+  <post>
+    <id>12</id>
+    <username>Entertainment Now</username>
+    <category>Entertainment</category>
+    <content>Check out the latest entertainment updates and trending stories.</content>
+    <likes>298</likes>
+    <comments>42</comments>
+    <time>6h ago</time>
+  </post>
+</feed>

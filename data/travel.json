@@ -1,0 +1,32 @@
+{
+    "source": "Travel",
+    "posts": [
+        {
+            "id": 7,
+            "username": "Priya",
+            "category": "Travel",
+            "content": "Beautiful sunset and peaceful surroundings make every journey special.",
+            "likes": 124,
+            "comments": 18,
+            "time": "2h ago"
+        },
+        {
+            "id": 8,
+            "username": "Sanjay",
+            "category": "Travel",
+            "content": "Exploring new places creates memories that last forever.",
+            "likes": 98,
+            "comments": 14,
+            "time": "9h ago"
+        },
+        {
+            "id": 9,
+            "username": "Anu",
+            "category": "Travel",
+            "content": "Nature always gives us a reason to slow down and enjoy the moment.",
+            "likes": 137,
+            "comments": 21,
+            "time": "11h ago"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Education",
+    "posts": [
+        {
+            "id": 4,
+            "username": "Rahul",
+            "category": "Education",
+            "content": "Small progress every day can lead to big achievements.",
+            "likes": 156,
+            "comments": 24,
+            "time": "6h ago"
+        },
+        {
+            "id": 5,
+            "username": "Divya",
+            "category": "Education",
+            "content": "Learning new skills is one of the best investments we can make.",
+            "likes": 112,
+            "comments": 16,
+            "time": "8h ago"
+        },
+        {
+            "id": 6,
+            "username": "Vijay",
+            "category": "Education",
+            "content": "Consistency is more important than studying everything in one day.",
+            "likes": 94,
+            "comments": 11,
+            "time": "10h ago"
+        }
+    ]
+}
